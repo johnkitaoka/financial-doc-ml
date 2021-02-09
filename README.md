@@ -1,2 +1,2 @@
 # financial-doc-nlp
-Utilizing different methods of natural language processing to analyze financial documents
+Utilizing different machine learning techniques to analyze financial documents. Demos are published on this page.
